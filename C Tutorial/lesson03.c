@@ -7,6 +7,6 @@ void main() {
     printf("Enter Your age: ");
     scanf("%d", &age); // like input in python and &age (Memory Location Address) and %d هي القيمة التي نأخدها من مستخدم ونخزنها في عنوان المتغير age
     printf("Enter Your name: ");
-    scanf("%s", &name); // like input in python and &age (Memory Location Address) and %d هي القيمة التي نأخدها من مستخدم ونخزنها في عنوان المتغير age
+    scanf("%s", &name); // %s for both char and string in state scanf
     printf("Your name %s and age is %d\n", name, age);
 }
