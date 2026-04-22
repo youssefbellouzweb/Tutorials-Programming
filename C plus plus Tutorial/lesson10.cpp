@@ -11,6 +11,7 @@ int main() {
     friends.push_back("Kevin");
     friends.insert(friends.begin() + 1, "Jim");
 
+    friends.erase(friends.begin() + 1); // for remove from first or like shift in py or anything
     cout << friends.at(0) << endl;
     cout << friends.at(1) << endl;
     cout << friends.at(2) << endl;
