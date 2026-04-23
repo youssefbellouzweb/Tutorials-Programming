@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C sharpe Tutorial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3015a817d44a7a24f0f0d0baed2acc3769724504")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac71a3aeae2b020b38aeb7db2633dcbbbf203e50")]
 [assembly: System.Reflection.AssemblyProductAttribute("C sharpe Tutorial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C sharpe Tutorial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
